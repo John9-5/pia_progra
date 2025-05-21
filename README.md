@@ -1,11 +1,11 @@
 integrantes nombre matricula y que hicieron 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Jonatan Reyes Muñoz 2135122 validadores
+2. Luis Guillermo Garza Ancona 2146464 Capturalnte 
+3. Jose Luis Rodriguez Fuentes 2225330 Guardado a csv 
+4. Eder Cruz Hernandez 2222360 analisis 
+5. Luis Angel Hernandez Lopez 2148887 analisis
+6. Ruben Tristan Covarrubias Flores 2161853 graficas
+7. Tadeo Sauceda Flores 1953762 main.py 
 8. Aldo Artutro Igleisas Rosales 2170445 hize el README 
 Materia:programacion basica
 Grupo: 083
